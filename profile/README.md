@@ -19,20 +19,8 @@
 
 Foxy Audit is a developer tool focused on **AI runtime security and auditing** — helping teams monitor, secure, and maintain accountability for AI systems as they operate in production.
 
-We're currently building in stealth. More details coming soon.
 
 <br/>
-
-## 🧱 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
 
 <br/>
 
