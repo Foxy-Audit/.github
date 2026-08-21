@@ -2,7 +2,7 @@
 
 <img src="./assets/logo.png" alt="Foxy Audit" width="140" />
 
-# 🦊 Foxy Audit
+# Foxy Audit
 
 ### An AI Runtime Auditing and Security Management System
 
