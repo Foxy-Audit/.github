@@ -24,7 +24,7 @@ Foxy Audit is a developer tool focused on **AI runtime security and auditing** â
 
 <br/>
 
-## ğŸ¤ Get in Touch
+##  Get in Touch
 
 <div align="center">
 
