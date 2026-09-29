@@ -30,9 +30,10 @@ Foxy Audit is a developer tool focused on **AI runtime security and auditing** â
 
 <a href="https://links.foxyaudit.tech/"><img src="./assets/contact.svg" width="100%" alt="QR code for links.foxyaudit.tech: every Foxy Audit link in one place." /></a>
 
-<a href="https://foxyaudit.tech"><img src="./assets/btn-website.svg" width="240" alt="Website: foxyaudit.tech" /></a>
-<a href="https://www.linkedin.com/company/foxy-audit/"><img src="./assets/btn-linkedin.svg" width="240" alt="LinkedIn: company page" /></a>
-<a href="https://x.com/foxyaudit"><img src="./assets/btn-x.svg" width="240" alt="X (Twitter): @foxyaudit" /></a>
-<a href="mailto:support@foxyaudit.tech"><img src="./assets/btn-email.svg" width="240" alt="Email: support@foxyaudit.tech" /></a>
+<a href="https://foxyaudit.tech"><img src="./assets/btn-website.svg" width="300" alt="Website: foxyaudit.tech" /></a>
+<a href="https://www.linkedin.com/company/foxy-audit/"><img src="./assets/btn-linkedin.svg" width="300" alt="LinkedIn: company page" /></a>
+<br/>
+<a href="https://x.com/foxyaudit"><img src="./assets/btn-x.svg" width="300" alt="X (Twitter): @foxyaudit" /></a>
+<a href="mailto:support@foxyaudit.tech"><img src="./assets/btn-email.svg" width="300" alt="Email: support@foxyaudit.tech" /></a>
 
 </div>
